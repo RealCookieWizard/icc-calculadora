@@ -10,3 +10,5 @@ Primero se introduce el número para elegir la operación
 9. Valor absoluto
 
 Luego se ingresan los dos numero y devuelve el resultado
+
+Héctor Santiago González Baltierra - 322604322
